@@ -1,6 +1,6 @@
 ## Wave Portal
 
-A simple Web3.0 dApp created over the Rinkeby TestNet.
+A Web3.0 dApp to send a public message to the smart contract’s owner.
 
 Hosted on: <a href="https://web3waive.netlify.app/">Link</a>
 
